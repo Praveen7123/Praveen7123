@@ -8,7 +8,7 @@ Currently pursuing 2nd yr in <br/> Vel Tech High Tech Engineering College <br/>
 - 🌱 I’m currently learning out of curiosity
 - ⚡ Fun fact: I am a Anime fan.
 - Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveen-ks-661646302/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/praveen_ks_15/)
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ3S5t1HYylBbP4GPfFusIw)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ3S5t1HYylBbP4GPfFusIw)
 
