@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Praveen K S 
 
 Aspiring AI&ML Engineer
-Currently pursuing 2nd yr in Vel Tech High Tech Engineering College
+<br/>
+Currently pursuing 2nd yr in <br/> Vel Tech High Tech Engineering College <br/>
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwMDFnODByemF2cXFkeG9vcDMzYzUwOWs2Zm5weWkwNjU5MHgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif">
 - 🔭 Here's my [portfolio]                                                
 - 🌱 I’m currently learning out of curiosity
