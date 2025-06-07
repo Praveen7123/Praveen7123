@@ -4,7 +4,7 @@ Aspiring AI&ML Engineer
 <br/>
 Currently pursuing 2nd yr in <br/> Vel Tech High Tech Engineering College <br/>
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwMDFnODByemF2cXFkeG9vcDMzYzUwOWs2Zm5weWkwNjU5MHgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif">
-- 🔭 Here's my [portfolio]                                                
+- 🔭 Here's my [portfolio](https://praveen7123.github.io/My_Portfolio/)                                              
 - 🌱 I’m currently learning out of curiosity
 - ⚡ Fun fact: I am a Anime fan.
 - Social Presence
