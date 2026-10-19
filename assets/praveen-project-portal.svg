@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="pr-t">
+  <title id="pr-t">PORTAL-REACT: institutional admissions portal, from registration to enrollment.</title>
+  <defs>
+    <linearGradient id="pr-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <radialGradient id="pr-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#701A3D" stop-opacity=".7"/><stop offset="1" stop-color="#451126" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="pr-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="pr-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="pr-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="pr-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8F0F3"/><stop offset=".45" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pr-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .pr-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .pr-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .pr-in { animation: pr-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .pr-d1 { animation-delay: .15s; } .pr-d2 { animation-delay: .4s; }
+    .pr-chip { animation: pr-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes pr-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .pr-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: pr-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes pr-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes pr-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pr-in, .pr-chip { animation: none; } .pr-draw { animation: none; stroke-dashoffset: 0; } }
+    .pr-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: pr-trace 7s linear infinite; }
+    @keyframes pr-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pr-trace { display: none; } }
+  </style>
+  <g clip-path="url(#pr-clip)">
+    <rect width="1200" height="370" fill="url(#pr-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#pr-grid)"/>
+    <rect width="1200" height="370" fill="url(#pr-glow)"/>
+    <g class="pr-in pr-d1">
+      <text class="pr-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">04 · FULL-STACK · ADMISSIONS</text>
+      <text class="pr-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">PORTAL-REACT<tspan class="pr-serif" font-size="22" font-style="italic" fill="#E5B5C7" dx="14">admissions portal</tspan></text>
+      <text class="pr-sans" x="56" y="166" font-size="17" fill="#B6A3AC">Admissions end to end: registration, payments, interviews, enrollment.</text>
+      <text class="pr-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">BUILT ›</tspan> role-based access, Firestore tracking, Razorpay payments, PDF receipts</text>
+      <line class="pr-draw" x1="56" y1="226" x2="680" y2="226" stroke="#C77B9B" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="pr-serif" font-size="34" font-weight="300" fill="#F8F0F3">6</text><text class="pr-sans" y="24" font-size="12.5" fill="#B6A3AC">admission stages, one portal</text></g>
+    <g transform="translate(261 266)"><text class="pr-serif" font-size="34" font-weight="300" fill="#F8F0F3">RBAC</text><text class="pr-sans" y="24" font-size="12.5" fill="#B6A3AC">role-based access</text></g>
+    <g transform="translate(466 266)"><text class="pr-serif" font-size="34" font-weight="300" fill="#F8F0F3">Razorpay</text><text class="pr-sans" y="24" font-size="12.5" fill="#B6A3AC">fee payments + receipts</text></g>
+      <g class="pr-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="54" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="pr-mono" x="83" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">React</text></g><g class="pr-chip" style="animation-delay:1.12s"><rect x="118" y="314" width="76" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="pr-mono" x="156" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Firebase</text></g><g class="pr-chip" style="animation-delay:1.24s"><rect x="202" y="314" width="84" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="pr-mono" x="244" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Firestore</text></g><g class="pr-chip" style="animation-delay:1.36s"><rect x="294" y="314" width="76" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="pr-mono" x="332" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Razorpay</text></g><g class="pr-chip" style="animation-delay:1.48s"><rect x="378" y="314" width="54" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="pr-mono" x="405" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">jsPDF</text></g>
+    </g>
+    <g class="pr-in pr-d2"><g transform="translate(0 35)">
+      <g transform="translate(760 40)" class="pr-mono" font-size="13" text-anchor="middle">
+        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">REGISTER · PAY · VIDEO · INTERVIEW</text>
+        <path d="M12 120 H70" stroke="#C77B9B" stroke-opacity=".5"/>
+        <path class="pr-draw" d="M190 120 C 240 120, 250 64, 300 64" fill="none" stroke="#E5B5C7" stroke-width="1.5"/>
+        <path d="M190 120 C 240 120, 250 176, 300 176" fill="none" stroke="#C77B9B" stroke-opacity=".45" stroke-dasharray="4 6"/>
+        <rect x="70" y="98" width="120" height="44" rx="22" fill="#27101C" stroke="#C77B9B" stroke-opacity=".5"/>
+        <text x="130" y="125" fill="#F8F0F3">applicant</text>
+        <rect x="300" y="42" width="116" height="44" rx="22" fill="#451126" stroke="#E5B5C7"/>
+        <text x="358" y="69" fill="#F8F0F3">enrolled</text>
+        <rect x="300" y="154" width="116" height="44" rx="22" fill="#190B12" stroke="#C77B9B" stroke-opacity=".4"/>
+        <text x="358" y="181" fill="#B6A3AC">in review</text>
+        <circle r="4.5" fill="#F8F0F3" filter="url(#pr-glowf)">
+          <animateMotion dur="3.6s" repeatCount="indefinite" path="M12 120 H130 C 220 120, 250 64, 358 64" calcMode="spline" keyPoints="0;1" keyTimes="0;1" keySplines=".45 0 .55 1"/>
+        </circle>
+        <text x="12" y="236" text-anchor="start" font-size="10.5" letter-spacing="1.5" fill="#B6A3AC">Razorpay checkout · PDF receipts · RBAC</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#C77B9B" stroke-opacity=".2"/>
+    <rect class="pr-trace" style="animation-delay:-4.2s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#pr-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>
