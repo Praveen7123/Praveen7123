@@ -1,5 +1,5 @@
 <a href="https://praveenportfolio-one.vercel.app/">
-  <img src="assets/praveen-hero.svg" width="100%" alt="Praveen K S — Aspiring AI/ML Engineer, Software Developer and AI Application Builder. Building intelligent systems. Turning ideas into useful software.">
+  <img width="100%" alt="Praveen K S — Aspiring AI/ML Engineer, Software Developer and AI Application Builder. Building intelligent systems. Turning ideas into useful software.">
 </a>
 
 <p align="center">
