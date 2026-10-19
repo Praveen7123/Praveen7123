@@ -1,31 +1,74 @@
-## Hi there 👋 It's me Praveen K S 
+<div align="center">
+  <img src="assets/praveen-hero.svg" alt="Praveen K S — AI/ML Engineer and Full-Stack Developer" width="100%" />
+</div>
 
-Aspiring AI&ML Engineer
-<br/>
-Currently pursuing 3rd yr in <br/> Vel Tech High Tech Engineering College <br/>
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwMDFnODByemF2cXFkeG9vcDMzYzUwOWs2Zm5weWkwNjU5MHgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif">
-- 🔭 Here's my [portfolio](https://praveenportfolio-one.vercel.app/)                                              
-- 🌱 I’m currently learning out of curiosity
-- ⚡ Fun fact: I am a Anime fan.
-- Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveen-ks-661646302/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/praveen_ks_15/)
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ3S5t1HYylBbP4GPfFusIw)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ3S5t1HYylBbP4GPfFusIw)
+<p align="center">
+  <a href="https://praveenportfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=F8F0F3" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/praveen-ks-661646302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/praveen_ks_15/"><img src="https://img.shields.io/badge/Instagram-Follow-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3" alt="Instagram" /></a>
+</p>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="5 0" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+01 — About me
+Hey there! I'm Praveen K S, an aspiring AI/ML Engineer currently pursuing my third year at Vel Tech High Tech Engineering College.
+- 🔭 Explore my portfolio.
+- 🧠 Learning, building, and exploring new technologies out of curiosity.
+- 🤖 Interested in AI/ML, deep learning, and AI-powered applications.
+- 🎌 Anime fan — always happy to talk about a great series.
+02 — Technologies
+Languages & web
+<p>
+  <img height="44" width="44" src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+</p>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+AI/ML
+<p>
+  <img height="44" width="44" src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" />
+</p>
 
+IDEs & tools
+<p>
+  <img height="44" width="44" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img height="44" width="44" src="https://img.icons8.com/officel/48/java-eclipse.png" alt="Eclipse" />
+  <img height="44" width="44" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+</p>
 
-### 💻 Workspace Spec
+03 — Featured project
+Vanta.ai / Brand Guide AI
+An AI-powered Instagram content and design-quality platform built around brand guidelines, document retrieval, and quality scoring.
 
-[![Dell G15](https://img.shields.io/badge/Dell-G15_5520-007DB8?logo=dell&logoColor=white)](https://dell.com)
-[![Intel](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?logo=intel&logoColor=white)](https://intel.com)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?logo=nvidia&logoColor=white)](https://nvidia.com)
-[![RAM](https://img.shields.io/badge/RAM-16GB_DDR4-important)](https://)
-[![Storage](https://img.shields.io/badge/Storage-512GB_SSD-blueviolet)](https://)
+Repository: Praveen7123/brand-guide-ai
+04 — GitHub activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen7123&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true" alt="Praveen's GitHub contribution activity graph" width="100%" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen7123&bg_color=0d0d0c&color=0d09f1&line=0252f2&point=0d54e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen7123&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub stats for Praveen7123" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen7123&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most-used languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/youtube/channel/views/UCJ3S5t1HYylBbP4GPfFusIw?style=flat-square&label=YouTube%20views&color=701A3D" alt="YouTube channel views" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCJ3S5t1HYylBbP4GPfFusIw?style=flat-square&label=YouTube%20subscribers&color=451126" alt="YouTube channel subscribers" />
+</p>
+
+05 — Workspace
+<p>
+  <img src="https://img.shields.io/badge/Dell-G15%205520-451126?style=flat-square&logo=dell&logoColor=F8F0F3" alt="Dell G15 5520" />
+  <img src="https://img.shields.io/badge/Intel-Core%20i5%2012th%20Gen-701A3D?style=flat-square&logo=intel&logoColor=F8F0F3" alt="12th Gen Intel Core i5" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%203050-451126?style=flat-square&logo=nvidia&logoColor=E5B5C7" alt="NVIDIA RTX 3050" />
+  <img src="https://img.shields.io/badge/RAM-16GB%20DDR4-701A3D?style=flat-square" alt="16 GB DDR4 RAM" />
+  <img src="https://img.shields.io/badge/Storage-512GB%20SSD-451126?style=flat-square" alt="512 GB SSD" />
+</p>
+
+<div align="center">
+  <img src="assets/praveen-footer.svg" alt="Thanks for visiting — keep building" width="100%" />
+  <sub>Designed with intention · Built with curiosity</sub>
+</div>
