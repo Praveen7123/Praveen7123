@@ -89,8 +89,9 @@ Visit admissions portal
 ✦ GITHUB ACTIVITY
 <sub>06 / OPEN SOURCE & CONTRIBUTIONS</sub>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen7123&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  <a href="https://github.com/Praveen7123"><img src="https://ghchart.rshah.org/701A3D/Praveen7123" alt="Praveen's GitHub contribution calendar" width="100%" /></a>
 </p>
+<p align="center"><sub>Contribution calendar · served by ghchart</sub></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveen7123&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub statistics" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen7123&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most-used languages" height="165" />
@@ -106,8 +107,8 @@ Visit admissions portal
   <img src="https://img.shields.io/badge/STORAGE-512GB%20SSD-451126?style=for-the-badge" alt="512 GB SSD"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/youtube/channel/views/UCJ3S5t1HYylBbP4GPfFusIw?style=flat-square&label=YOUTUBE%20VIEWS&color=701A3D" alt="YouTube channel views"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCJ3S5t1HYylBbP4GPfFusIw?style=flat-square&label=YOUTUBE%20SUBSCRIBERS&color=451126" alt="YouTube channel subscribers"/>
+  <a href="https://www.youtube.com/channel/UCJ3S5t1HYylBbP4GPfFusIw"><img src="https://img.shields.io/badge/YOUTUBE-CHANNEL%20VIEWS-701A3D?style=flat-square&logo=youtube&logoColor=F8F0F3" alt="Open my YouTube channel and view its videos"/></a>
+  <a href="https://www.youtube.com/channel/UCJ3S5t1HYylBbP4GPfFusIw"><img src="https://img.shields.io/badge/YOUTUBE-CHANNEL%20SUBSCRIBERS-451126?style=flat-square&logo=youtube&logoColor=F8F0F3" alt="Open my YouTube channel and subscribe"/></a>
 </p>
 
 <div align="center"><img src="assets/praveen-footer.svg" width="100%" alt="Keep learning, keep building" /></div>
