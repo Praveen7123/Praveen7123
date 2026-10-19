@@ -7,57 +7,53 @@
   </p>
 </div>
 
----
-
-<div align="center"><img src="assets/section-about.svg" width="100%" alt="About me" /></div>
-
+✦ ABOUT ME
+<sub>01 / WHO I AM</sub>
 <img align="right" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwMDFnODByemF2cXFkeG9vcDMzYzUwOWs2Zm5weWkwNjU5MHgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif" alt="Naruto anime GIF" />
 
-Hey! I'm **Praveen K S**, an aspiring AI/ML Engineer pursuing **B.E. in Computer Science & Engineering (AI & ML)** at **Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College**.
 
-- 🔭 Explore my [portfolio](https://praveenportfolio-one.vercel.app/).
+Hey! I'm Praveen K S, an aspiring AI/ML Engineer pursuing B.E. in Computer Science & Engineering (AI & ML) at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College.
+- 🔭 Explore my portfolio.
 - 🧠 Interested in deep learning, multimodal AI, and AI-powered applications.
 - 🌱 Learning by building and exploring new technologies.
 - ⚡ Fun fact: I'm an anime fan.
-
 <br clear="right"/>
 
-<div align="center"><img src="assets/section-experience.svg" width="100%" alt="Experience" /></div>
+✦ EXPERIENCE
+<sub>02 / INTERNSHIP</sub>
+AI/ML Engineering Intern — The Hindu Publications
+June 2025 – Present, as stated in my resume
 
-### AI/ML Engineering Intern — The Hindu Publications
-*June 2025 – Present, as stated in my resume*
+Worked on mobile LLM integration, connecting a Flutter frontend with Kotlin/C++ through platform channels for on-device text generation and streaming. My resume reports reducing response time from 2.5 seconds to 1.1 seconds.
 
-Worked on mobile LLM integration, connecting a Flutter frontend with Kotlin/C++ through platform channels for on-device text generation and streaming. My resume reports reducing response time from **2.5 seconds to 1.1 seconds**.
-
-**Focus:** Flutter · Kotlin · C++ · LLM integration · On-device inference
-
-<div align="center"><img src="assets/section-projects.svg" width="100%" alt="Selected work" /></div>
-
+Focus: Flutter · Kotlin · C++ · LLM integration · On-device inference
+✦ SELECTED WORK
+<sub>03 / PROJECTS</sub>
 <div align="center"><img src="assets/project-sentiment-x.svg" width="100%" alt="SENTIMENT-X multimodal sentiment analysis project" /></div>
 
-**SENTIMENT-X — Multimodal Sentiment Analysis**  
-Recognizes emotion across video, audio, and text using deep-learning models, including a CNN for facial expressions, a CNN–Transformer hybrid for speech, and fine-tuned DistilBERT for text. The resume reports **92% accuracy** and **60% latency reduction**.  
-[Live demo](https://sentiment-x-lac.vercel.app/)
 
+SENTIMENT-X — Multimodal Sentiment Analysis
+Recognizes emotion across video, audio, and text using deep-learning models, including a CNN for facial expressions, a CNN–Transformer hybrid for speech, and fine-tuned DistilBERT for text. The resume reports 92% accuracy and 60% latency reduction.
+Live demo
 <div align="center"><img src="assets/project-dcgan.svg" width="100%" alt="Synthetic face generation with DCGAN" /></div>
 
-**Synthetic Face Generation with DCGAN**  
-Trained on 200K+ CelebA images, with invisible watermarking for AI-content traceability. The resume reports **95.8% watermark-detection accuracy** on a 10K-image test set and an **FID score of 18.4**.
 
+Synthetic Face Generation with DCGAN
+Trained on 200K+ CelebA images, with invisible watermarking for AI-content traceability. The resume reports 95.8% watermark-detection accuracy on a 10K-image test set and an FID score of 18.4.
 <div align="center"><img src="assets/project-lms.svg" width="100%" alt="Learning Management System project" /></div>
 
-**Learning Management System (LMS)**  
-A full-stack online learning platform using React, Firebase authentication, Firestore, and Cloudflare.  
-[Visit LMS](https://learn.bversity.io)
 
+Learning Management System (LMS)
+A full-stack online learning platform using React, Firebase authentication, Firestore, and Cloudflare.
+Visit LMS
 <div align="center"><img src="assets/project-portal.svg" width="100%" alt="PORTAL-REACT admissions portal" /></div>
 
-**PORTAL-REACT — Institutional Admissions Portal**  
-Supports student registration, fee payments, video submissions, interview scheduling, results, and enrollment. Includes role-based access, Firestore tracking, Razorpay payments, and PDF receipts.  
-[Visit admissions portal](https://admission.bversity.io)
 
-<div align="center"><img src="assets/section-toolkit.svg" width="100%" alt="Tools and technologies" /></div>
-
+PORTAL-REACT — Institutional Admissions Portal
+Supports student registration, fee payments, video submissions, interview scheduling, results, and enrollment. Includes role-based access, Firestore tracking, Razorpay payments, and PDF receipts.
+Visit admissions portal
+✦ TECH STACK
+<sub>04 / LANGUAGES · AI · WEB</sub>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -86,13 +82,12 @@ Supports student registration, fee payments, video submissions, interview schedu
   </tr>
 </table>
 
-<div align="center"><img src="assets/section-certifications.svg" width="100%" alt="Certifications" /></div>
-
-- **Deep Learning** — NPTEL, IIT Ropar (2024)
-- **The Joy of Computing using Python** — NPTEL (2024)
-
-<div align="center"><img src="assets/section-activity.svg" width="100%" alt="GitHub activity" /></div>
-
+✦ CERTIFICATIONS
+<sub>05 / CONTINUOUS LEARNING</sub>
+- Deep Learning — NPTEL, IIT Ropar (2024)
+- The Joy of Computing using Python — NPTEL (2024)
+✦ GITHUB ACTIVITY
+<sub>06 / OPEN SOURCE & CONTRIBUTIONS</sub>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen7123&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p>
@@ -101,7 +96,8 @@ Supports student registration, fee payments, video submissions, interview schedu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen7123&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most-used languages" height="165" />
 </p>
 
-<div align="center"><img src="assets/section-workspace.svg" width="100%" alt="Workspace" /></div>
+✦ WORKSPACE
+<sub>07 / HARDWARE & SETUP</sub>
 <p align="center">
   <img src="https://img.shields.io/badge/DELL-G15%205520-451126?style=for-the-badge&logo=dell&logoColor=F8F0F3" alt="Dell G15 5520"/>
   <img src="https://img.shields.io/badge/INTEL-Core%20i5%2012th%20Gen-701A3D?style=for-the-badge&logo=intel&logoColor=F8F0F3" alt="12th Gen Intel Core i5"/>
