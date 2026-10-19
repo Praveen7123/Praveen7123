@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="bt-t">
+  <title id="bt-t">Backtrace: a multi-agent DevOps platform that traces incidents to root causes.</title>
+  <defs>
+    <linearGradient id="bt-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#060A14"/>
+    </linearGradient>
+    <radialGradient id="bt-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity=".7"/><stop offset="1" stop-color="#163A7A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="bt-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#6AA6FF" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="bt-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="bt-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="bt-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EEF4FF"/><stop offset=".45" stop-color="#BCD8FF"/><stop offset="1" stop-color="#6AA6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bt-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .bt-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .bt-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bt-in { animation: bt-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .bt-d1 { animation-delay: .15s; } .bt-d2 { animation-delay: .4s; }
+    .bt-chip { animation: bt-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes bt-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .bt-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: bt-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes bt-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes bt-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .bt-in, .bt-chip { animation: none; } .bt-draw { animation: none; stroke-dashoffset: 0; } }
+    .bt-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: bt-trace 7s linear infinite; }
+    @keyframes bt-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .bt-trace { display: none; } }
+  </style>
+  <g clip-path="url(#bt-clip)">
+    <rect width="1200" height="370" fill="url(#bt-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#bt-grid)"/>
+    <rect width="1200" height="370" fill="url(#bt-glow)"/>
+    <g class="bt-in bt-d1">
+      <text class="bt-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#6AA6FF">05 · MULTI-AGENT · DEVOPS · 2025</text>
+      <text class="bt-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#EEF4FF">Backtrace<tspan class="bt-serif" font-size="22" font-style="italic" fill="#BCD8FF" dx="14">multi-agent DevOps</tspan></text>
+      <text class="bt-sans" x="56" y="166" font-size="17" fill="#A5B1C4">Autonomous agents that trace incidents and surface root causes.</text>
+      <text class="bt-mono" x="56" y="200" font-size="12.5" fill="#BCD8FF"><tspan fill="#6AA6FF">BUILT ›</tspan> collaborating LLM agents, FastAPI backend, Next.js operations portal</text>
+      <line class="bt-draw" x1="56" y1="226" x2="680" y2="226" stroke="#6AA6FF" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="bt-serif" font-size="34" font-weight="300" fill="#EEF4FF">Agents</text><text class="bt-sans" y="24" font-size="12.5" fill="#A5B1C4">collaborating autonomously</text></g>
+    <g transform="translate(261 266)"><text class="bt-serif" font-size="34" font-weight="300" fill="#EEF4FF">RCA</text><text class="bt-sans" y="24" font-size="12.5" fill="#A5B1C4">root causes surfaced</text></g>
+    <g transform="translate(466 266)"><text class="bt-serif" font-size="34" font-weight="300" fill="#EEF4FF">1</text><text class="bt-sans" y="24" font-size="12.5" fill="#A5B1C4">portal for operations</text></g>
+      <g class="bt-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="98" height="26" rx="13" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".35"/><text class="bt-mono" x="105" y="331" text-anchor="middle" font-size="11.5" fill="#BCD8FF">Multi-Agent</text></g><g class="bt-chip" style="animation-delay:1.12s"><rect x="162" y="314" width="47" height="26" rx="13" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".35"/><text class="bt-mono" x="186" y="331" text-anchor="middle" font-size="11.5" fill="#BCD8FF">LLMs</text></g><g class="bt-chip" style="animation-delay:1.24s"><rect x="217" y="314" width="61" height="26" rx="13" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".35"/><text class="bt-mono" x="248" y="331" text-anchor="middle" font-size="11.5" fill="#BCD8FF">Python</text></g><g class="bt-chip" style="animation-delay:1.36s"><rect x="286" y="314" width="69" height="26" rx="13" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".35"/><text class="bt-mono" x="320" y="331" text-anchor="middle" font-size="11.5" fill="#BCD8FF">FastAPI</text></g><g class="bt-chip" style="animation-delay:1.48s"><rect x="363" y="314" width="69" height="26" rx="13" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".35"/><text class="bt-mono" x="398" y="331" text-anchor="middle" font-size="11.5" fill="#BCD8FF">Next.js</text></g>
+    </g>
+    <g class="bt-in bt-d2"><g transform="translate(0 35)">
+      <g>
+        <rect x="760" y="50" width="250" height="38" rx="12" fill="#EEF4FF" fill-opacity=".07" stroke="#6AA6FF" stroke-opacity=".3"/>
+        <text class="bt-mono" x="776" y="74" font-size="12" fill="#EEF4FF">“incident: service down”</text>
+        <g transform="translate(760 112)">
+          <rect width="76" height="58" rx="9" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".3">
+            <animate attributeName="fill" values="#111C33;#1D4ED8;#111C33;#111C33" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
+          </rect>
+          <text class="bt-mono" x="8" y="18" font-size="9" fill="#A5B1C4">01</text>
+          <text class="bt-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#EEF4FF">Detect</text>
+        </g>
+        <g transform="translate(844 112)">
+          <rect width="76" height="58" rx="9" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".3">
+            <animate attributeName="fill" values="#111C33;#1D4ED8;#111C33;#111C33" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+          </rect>
+          <text class="bt-mono" x="8" y="18" font-size="9" fill="#A5B1C4">02</text>
+          <text class="bt-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#EEF4FF">Trace</text>
+        </g>
+        <g transform="translate(928 112)">
+          <rect width="76" height="58" rx="9" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".3">
+            <animate attributeName="fill" values="#111C33;#1D4ED8;#111C33;#111C33" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+          </rect>
+          <text class="bt-mono" x="8" y="18" font-size="9" fill="#A5B1C4">03</text>
+          <text class="bt-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#EEF4FF">Diagnose</text>
+        </g>
+        <g transform="translate(1012 112)">
+          <rect width="76" height="58" rx="9" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".3">
+            <animate attributeName="fill" values="#111C33;#1D4ED8;#111C33;#111C33" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+          </rect>
+          <text class="bt-mono" x="8" y="18" font-size="9" fill="#A5B1C4">04</text>
+          <text class="bt-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#EEF4FF">Automate</text>
+        </g>
+        <g transform="translate(1096 112)">
+          <rect width="76" height="58" rx="9" fill="#111C33" stroke="#6AA6FF" stroke-opacity=".3">
+            <animate attributeName="fill" values="#111C33;#1D4ED8;#111C33;#111C33" keyTimes="0;.08;.2;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+          </rect>
+          <text class="bt-mono" x="8" y="18" font-size="9" fill="#A5B1C4">05</text>
+          <text class="bt-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#EEF4FF">Report</text>
+        </g>
+        <text class="bt-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#BCD8FF">agents collaborate → root cause</text>
+        <text class="bt-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#A5B1C4">LLM AGENTS · FASTAPI · NEXT.JS</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#6AA6FF" stroke-opacity=".2"/>
+    <rect class="bt-trace" style="animation-delay:-5.6s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#bt-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

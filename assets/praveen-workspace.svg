@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="ws-t ws-d">
+  <title id="ws-t">Workspace</title>
+  <desc id="ws-d">Dell G15 5520 laptop, 12th Gen Intel Core i5, NVIDIA RTX 3050, 16 GB DDR4 RAM, 512 GB SSD.</desc>
+  <defs>
+    <linearGradient id="ws-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#060A14"/></linearGradient>
+    <radialGradient id="ws-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#1D4ED8" stop-opacity=".5"/><stop offset="1" stop-color="#163A7A" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ws-edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EEF4FF"/><stop offset=".5" stop-color="#BCD8FF"/><stop offset="1" stop-color="#6AA6FF" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .ws-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .ws-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ws-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ws-tile { animation: ws-in 1s cubic-bezier(.34,1.3,.64,1) both; }
+    .ws-edge { stroke-dasharray: 716; stroke-dashoffset: 716; animation: ws-edge 6s cubic-bezier(.65,0,.35,1) infinite; }
+    @keyframes ws-in { from { opacity: 0; transform: translateY(18px) scale(.97); } to { opacity: 1; transform: none; } }
+    @keyframes ws-edge { 0% { stroke-dashoffset: 716; opacity: 1; } 40% { stroke-dashoffset: 0; opacity: 1; } 60%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ws-tile { animation: none; } .ws-edge { display: none; } }
+  </style>
+  <rect width="1200" height="230" rx="20" fill="url(#ws-bg)"/>
+  <rect width="1200" height="230" rx="20" fill="url(#ws-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="229" rx="19.5" fill="none" stroke="#6AA6FF" stroke-opacity=".16"/>
+  <g class="ws-tile" style="animation-delay:0.20s"><g transform="translate(40 40)">
+    <rect width="208" height="150" rx="14" fill="#0A1120" stroke="#6AA6FF" stroke-opacity=".24"/>
+    <rect width="208" height="150" rx="14" fill="none" stroke="url(#ws-edge)" stroke-width="1.2" class="ws-edge" style="animation-delay:2.00s"/>
+    <text class="ws-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#6AA6FF">LAPTOP</text>
+    <circle cx="181" cy="31" r="3.5" fill="#6AA6FF"/>
+    <line x1="22" y1="54" x2="186" y2="54" stroke="#6AA6FF" stroke-opacity=".15"/>
+    <text class="ws-serif" x="22" y="92" font-size="26" fill="#EEF4FF">Dell G15</text><text class="ws-sans" x="22" y="120" font-size="14" fill="#BCD8FF">5520</text>
+  </g></g>
+  <g class="ws-tile" style="animation-delay:0.32s"><g transform="translate(268 40)">
+    <rect width="208" height="150" rx="14" fill="#0A1120" stroke="#6AA6FF" stroke-opacity=".24"/>
+    <rect width="208" height="150" rx="14" fill="none" stroke="url(#ws-edge)" stroke-width="1.2" class="ws-edge" style="animation-delay:2.35s"/>
+    <text class="ws-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#6AA6FF">CPU</text>
+    <circle cx="181" cy="31" r="3.5" fill="#6AA6FF"/>
+    <line x1="22" y1="54" x2="186" y2="54" stroke="#6AA6FF" stroke-opacity=".15"/>
+    <text class="ws-serif" x="22" y="92" font-size="26" fill="#EEF4FF">Core i5</text><text class="ws-sans" x="22" y="120" font-size="14" fill="#BCD8FF">Intel · 12th Gen</text>
+  </g></g>
+  <g class="ws-tile" style="animation-delay:0.44s"><g transform="translate(496 40)">
+    <rect width="208" height="150" rx="14" fill="#0A1120" stroke="#6AA6FF" stroke-opacity=".24"/>
+    <rect width="208" height="150" rx="14" fill="none" stroke="url(#ws-edge)" stroke-width="1.2" class="ws-edge" style="animation-delay:2.70s"/>
+    <text class="ws-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#6AA6FF">GPU</text>
+    <circle cx="181" cy="31" r="3.5" fill="#6AA6FF"/>
+    <line x1="22" y1="54" x2="186" y2="54" stroke="#6AA6FF" stroke-opacity=".15"/>
+    <text class="ws-serif" x="22" y="92" font-size="26" fill="#EEF4FF">RTX 3050</text><text class="ws-sans" x="22" y="120" font-size="14" fill="#BCD8FF">NVIDIA</text>
+  </g></g>
+  <g class="ws-tile" style="animation-delay:0.56s"><g transform="translate(724 40)">
+    <rect width="208" height="150" rx="14" fill="#0A1120" stroke="#6AA6FF" stroke-opacity=".24"/>
+    <rect width="208" height="150" rx="14" fill="none" stroke="url(#ws-edge)" stroke-width="1.2" class="ws-edge" style="animation-delay:3.05s"/>
+    <text class="ws-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#6AA6FF">MEMORY</text>
+    <circle cx="181" cy="31" r="3.5" fill="#6AA6FF"/>
+    <line x1="22" y1="54" x2="186" y2="54" stroke="#6AA6FF" stroke-opacity=".15"/>
+    <text class="ws-serif" x="22" y="92" font-size="26" fill="#EEF4FF">16 GB</text><text class="ws-sans" x="22" y="120" font-size="14" fill="#BCD8FF">DDR4</text>
+  </g></g>
+  <g class="ws-tile" style="animation-delay:0.68s"><g transform="translate(952 40)">
+    <rect width="208" height="150" rx="14" fill="#0A1120" stroke="#6AA6FF" stroke-opacity=".24"/>
+    <rect width="208" height="150" rx="14" fill="none" stroke="url(#ws-edge)" stroke-width="1.2" class="ws-edge" style="animation-delay:3.40s"/>
+    <text class="ws-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#6AA6FF">STORAGE</text>
+    <circle cx="181" cy="31" r="3.5" fill="#6AA6FF"/>
+    <line x1="22" y1="54" x2="186" y2="54" stroke="#6AA6FF" stroke-opacity=".15"/>
+    <text class="ws-serif" x="22" y="92" font-size="26" fill="#EEF4FF">512 GB</text><text class="ws-sans" x="22" y="120" font-size="14" fill="#BCD8FF">SSD</text>
+  </g></g>
+</svg>
